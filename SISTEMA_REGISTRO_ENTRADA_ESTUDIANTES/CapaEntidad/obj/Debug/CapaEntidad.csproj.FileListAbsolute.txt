@@ -1,0 +1,6 @@
+C:\Users\Maxi\source\repos\SISTEMA_REGISTRO_ENTRADA_ESTUDIANTES\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Maxi\source\repos\SISTEMA_REGISTRO_ENTRADA_ESTUDIANTES\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Maxi\source\repos\SISTEMA_REGISTRO_ENTRADA_ESTUDIANTES\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\SISTEMA_REGISTRO_ENTRADA_ESTUDIANTES\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\SISTEMA_REGISTRO_ENTRADA_ESTUDIANTES\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Maxi\source\repos\SISTEMA_REGISTRO_ENTRADA_ESTUDIANTES\CapaEntidad\obj\Debug\CapaEntidad.pdb
