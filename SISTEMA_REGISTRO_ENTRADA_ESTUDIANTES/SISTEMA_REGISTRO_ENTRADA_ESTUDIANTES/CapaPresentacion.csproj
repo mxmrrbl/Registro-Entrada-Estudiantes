@@ -157,5 +157,8 @@
   <ItemGroup>
     <None Include="Resources\baseline_settings_white_48dp.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Bunifu\Bunifu_UI_v1.52.dll" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
